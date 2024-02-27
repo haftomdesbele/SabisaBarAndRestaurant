@@ -6,5 +6,5 @@ Fully integrated ERP System  For Bar and Restaurant developed By Maylon Trading 
 4. Run the application    *this application has actual data of Sabisa Bar and Restaurant *
      Owner Username=haf
             password=123
-5. Enjoy the application
+5. Enjoy the application and you can contact us for the full version.
 6. Please leave your comments thank you.
